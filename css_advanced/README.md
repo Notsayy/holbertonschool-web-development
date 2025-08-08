@@ -22,3 +22,5 @@ The styling and layout must follow the provided Figma file. A Figma account is r
 
 [Figma - Page design](https://www.figma.com/file/XrEAsu1vQj5fhVaNG38d2W/Homepage)
 ![Un chien rigolo](./img/merveilleuxchieng.png)
+
+Lien pour accéder à la page: https://brofus.me/holberton-css-githubpage/
